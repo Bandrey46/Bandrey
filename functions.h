@@ -1,1 +1,1 @@
-void area_circle(double radius, double &area);
+void area_circle(double radius, double &area, double &length);
