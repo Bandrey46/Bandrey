@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project(Gates)
+set(SOURCE_EXE main.cpp)
+set(SOURCE_LIB functions.cpp)
+add_library(func STATIC ${SOURCE_LIB})
+add_executable(main main.cpp)
+target_link_libraries(main func)
