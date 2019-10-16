@@ -1,5 +1,6 @@
+#include <math.h>
 void area_circle(double radius, double &area, double &length)
 {
-	area=3.14*radius*radius;
-	length=3.14*2*radius;
+	area=M_PI*radius*radius;
+	length=M_PI*2*radius;
 }

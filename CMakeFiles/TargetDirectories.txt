@@ -1,0 +1,4 @@
+/home/bandrey/Project/Source/CMakeFiles/rebuild_cache.dir
+/home/bandrey/Project/Source/CMakeFiles/func.dir
+/home/bandrey/Project/Source/CMakeFiles/edit_cache.dir
+/home/bandrey/Project/Source/CMakeFiles/main.dir
